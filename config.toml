@@ -1,0 +1,47 @@
+title = 'JGB'
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+theme = 'resume'
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Mérida, Spain"
+email = "galeanobra@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Jesús"
+lastName = "Galeano Brajones"
+#phone = "1-555-555-1234"
+profileImage = "img/foto.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = false
+showSkills = false
+
+[params.google]
+
+[params.google.analytics]
+trackerID = ""
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/jesus-galeano-brajones/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://orcid.org/0000-0001-8691-8944"
+name = "ORCID"
+
+[[params.handles]]
+link = "https://scholar.google.com/citations?user=xQ_Dxl0AAAAJ&hl"
+name = "Scholar"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

@@ -1,5 +1,5 @@
 title = 'JGB'
-baseURL = 'http://example.org/'
+baseURL = 'http://galeanobra.github.io/'
 languageCode = 'en-us'
 theme = 'resume'
 PygmentsCodeFences = true

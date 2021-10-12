@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization on JGB</title>
+    <link>http://example.org/tags/optimization/</link>
+    <description>Recent content in optimization on JGB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El efecto de la multiconectividad en el problema del apagado selectivo de redes 5G ultradensas</title>
+      <link>http://example.org/publications/quinones2021efecto/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/quinones2021efecto/</guid>
+      <description>In XIX Conferencia de la Asociación Española para la Inteligencia Artificial El despliegue masivo de estaciones base es uno de los pilares básicos para que las nuevas generaciones de redes móviles satisfagan las elevadas demandas de muchas aplicaciones actuales. Esta densificación conlleva, no obstante, un elevado consumo energético que ha de ser minimizado para garantizar la sostenibilidad del sistema en un claro contexto de reducción del impacto ambiental. Se trata, por tanto, de un problema de optimización multiobjetivo en el que no sólo se tienen en cuenta criterios de eficiencia energética, si no también de calidad del servicio.</description>
+    </item>
+    
+  </channel>
+</rss>

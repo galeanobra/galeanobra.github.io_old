@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on JGB</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on JGB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>in</title>
+      <link>http://example.org/tags/in/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techtags</title>
+      <link>http://example.org/tags/techtags/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/techtags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>used</title>
+      <link>http://example.org/tags/used/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/used/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>http://example.org/tags/website/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5G</title>
+      <link>http://example.org/tags/5g/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/5g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>http://example.org/tags/conference/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimization</title>
+      <link>http://example.org/tags/optimization/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>article</title>
+      <link>http://example.org/tags/article/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network security</title>
+      <link>http://example.org/tags/network-security/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/network-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDN</title>
+      <link>http://example.org/tags/sdn/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sdn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
